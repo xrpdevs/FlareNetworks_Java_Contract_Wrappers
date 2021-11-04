@@ -1,4 +1,4 @@
-package flarenetmessenger;
+package yourpackagename;
 
 import io.reactivex.Flowable;
 import io.reactivex.functions.Function;
